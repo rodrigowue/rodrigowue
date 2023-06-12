@@ -7,7 +7,7 @@
   <img align="left" alt="Rodrigo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-  <img align="right" alt="GIF" src="asic.jpg?raw=true" width="400" height="540" />
+  <img align="right" alt="GIF" src="asic.jpg?raw=true" width="400" height="400" />
   
 <br />
 
