@@ -20,10 +20,3 @@ Here are the key areas I'm passionate about:
 
 ---- 
 
-<a href="https://www.instagram.com/rodrigowue/">
-  <img align="left" alt="Rodrigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/rodrigowue/">
-  <img align="left" alt="Rodrigo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
