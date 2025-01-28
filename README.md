@@ -4,7 +4,7 @@
   
 **About Me**
 
-I am [Rodrigo](https://inf.ufrgs.br/~rnwuerdig/) - a Ph.D. student in microelectronics at UFRGS who loves to learn how everything works. I consider myself a creative thinker who enjoys exploring diverse fields and sharing my ideas. Throughout my journey, I have gained valuable experience in academia and innovative startups. 
+I am [Rodrigo](https://inf.ufrgs.br/~rnwuerdig/) - a joint Ph.D. student in microelectronics at UFRGS and electrical engineering at KU Leuven who loves to learn how everything works. I consider myself a creative thinker who enjoys exploring diverse fields and sharing my ideas. Throughout my journey, I have gained valuable experience in academia and innovative startups. 
 
 As an active member of the IEEE Circuits and Systems Society and the Electron Devices Society, I am committed to advancing the field of microelectronics.
 
